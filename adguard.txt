@@ -1,7 +1,7 @@
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-cdn.eporner.com^$important
-@@|*-intuit.com^$important
+@@|*-*.intuit.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
 @@|*-glb-bps-gateway.p76prod.systems^$important
 @@|*-glb-bps-loginqueue.p76prod.systems^$important
